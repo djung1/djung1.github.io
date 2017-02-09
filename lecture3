@@ -2,9 +2,28 @@
   <head>
     <title>Alignment exercise</title>
   </head>
+  
+  <style>
+  
+  .left {
+    text-align: left;
+  }
+  
+  .right {
+    text-align: right;
+  }
+  
+  .center {
+    text-align: center;
+  }
+
+</style>
 
   <body>
+  
+    <div class="center">
     <img src="http://r.ddmcdn.com/s_f/o_1/cx_633/cy_0/cw_1725/ch_1725/w_720/APL/uploads/2014/11/too-cute-doggone-it-video-playlist.jpg">
+    </div>
 
     <p>Dogs are pretty <strong>neat</strong></p>
     <p>They are <em>furry</em> and <em>soft</em></p>
