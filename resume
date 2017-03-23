@@ -6,13 +6,13 @@
 	</head>
 	<body>
 		<div id="header">
-			<p id="name">Your Name Here</p>
-			<a href="mailto:you@yourdomain.com"><p id="email">you@yourdomain.com</p></a>
+			<p id="name">Dahye Jung</p>
+			<a href="mailto:dahye.jung@mail.mcgill.ca"><p id="email">dahye.jung@mail.mcgill.ca</p></a>
 		</div>
 		<div class="left"></div>
 		<div class="right">
 			<h4>Objective</h4>
-			<p>To take a position as a software engineer.</p>
+			<p>Hire me!</p>
 			<h4>Experience</h4>
 			<p>Junior Developer, Software Company (2010 - Present)</p>
 			<ul>
